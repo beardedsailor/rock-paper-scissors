@@ -10,7 +10,6 @@ const scissors_div= document.getElementById("s");
 
 
 function main(){
-
     rock_div.addEventListener('click',function(){
         game("r");
     })
