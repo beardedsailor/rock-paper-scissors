@@ -48,8 +48,6 @@ function game(userChoice){
             draw(userChoice,computerChoice);
             break;        
   }
-
-
 }
 
 function win(user,computer){
